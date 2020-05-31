@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OwnerCheckConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <usePlayerInfoLib>false</usePlayerInfoLib>
+  <SayPlayerID>true</SayPlayerID>
+  <SayPlayerCharacterName>true</SayPlayerCharacterName>
+  <SayPlayerSteamName>true</SayPlayerSteamName>
+  <SayGroupID>false</SayGroupID>
+  <SayGroupName>false</SayGroupName>
+</OwnerCheckConfig>

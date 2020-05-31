@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DMC2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <messagecolour>#ff99d4</messagecolour>
+  <suicidemsg>false</suicidemsg>
+  <healthwarningmsg>false</healthwarningmsg>
+  <ExperienceEnabled>false</ExperienceEnabled>
+  <UconomyEnabled>false</UconomyEnabled>
+  <ZombieMessagesEnabled>true</ZombieMessagesEnabled>
+  <ShowErrorMessages>false</ShowErrorMessages>
+  <ShowDebugInfo>false</ShowDebugInfo>
+  <ShowDistance>false</ShowDistance>
+  <warning1>WARNING: You are about to die!</warning1>
+  <warning2>We recommend you to patch yourself up!</warning2>
+  <zombie>has been mauled by a zombie!</zombie>
+  <gun>shot and killed</gun>
+  <melee>has melee'd</melee>
+  <melee2>to death!</melee2>
+  <punch>has punched</punch>
+  <punch2>to death! WOW!</punch2>
+  <roadkill>ran over</roadkill>
+  <vehicle>has died due to an explosion of a vehicle!</vehicle>
+  <food>has starved to death!</food>
+  <water>has dehydrated to death!</water>
+  <infection>has become a zombie himself!</infection>
+  <bleeding>has bled to death!</bleeding>
+  <suicide>has killed himself!</suicide>
+  <landmine>has been blown up by a landmine!</landmine>
+  <breath>died of holding his breath for too long!</breath>
+  <grenade>blew up by a grenade!</grenade>
+  <charge>was obliterated by a charge!</charge>
+  <missile>was annihilated by a missile!</missile>
+  <freezing>froze to death!</freezing>
+  <bones>fell to their death!</bones>
+  <sentry>was shot down by a sentry</sentry>
+  <splash> was killed by splash damage!</splash>
+  <headshotgun>was shot in the head by</headshotgun>
+  <headchop>was slashed in the head by</headchop>
+  <headpunch>was punched in the head by</headpunch>
+  <shred>has been shreaded to death!</shred>
+  <acid>was killed by acid</acid>
+  <spit>was killed by spit!</spit>
+  <fire>was killed by fire!</fire>
+  <spark>has been sparked out</spark>
+  <boulder>was killed by a gigantic boulder!</boulder>
+  <usinga>using a</usinga>
+  <Head>30</Head>
+  <Arm>5</Arm>
+  <Leg>5</Leg>
+  <Body>15</Body>
+  <Roadkill>10</Roadkill>
+  <ExpHead>50</ExpHead>
+  <ExpBody>25</ExpBody>
+  <ExpArm>30</ExpArm>
+  <ExpLeg>30</ExpLeg>
+</DMC2>

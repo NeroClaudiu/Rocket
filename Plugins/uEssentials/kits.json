@@ -1,0 +1,868 @@
+[
+  {
+    "Name": "new",
+    "Items": [
+      {
+        "Id": 304,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 303,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 240,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1014,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 30,
+        "Id": 116,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1199,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 30,
+        "Id": 6,
+        "Durability": 100,
+        "Amount": 3
+      },
+      {
+        "Id": 333,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 140,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "sup",
+    "Items": [
+      {
+        "Id": 80,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 83,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 389,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "base",
+    "Items": [
+      {
+        "Id": 16,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 295,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 378,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1098,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 366,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 1158,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 7200,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "bricks",
+    "Items": [
+      {
+        "Id": 74,
+        "Durability": 100,
+        "Amount": 15
+      }
+    ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "placard",
+    "Items": [
+      {
+        "Id": 1470,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "sign",
+    "Items": [
+      {
+        "Id": 1098,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "party",
+    "Items": [
+      {
+        "Id": 1194,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 250,
+        "Id": 1364,
+        "Durability": 100,
+        "Amount": 15
+      },
+      {
+        "Ammo": 250,
+        "Id": 1365,
+        "Durability": 100,
+        "Amount": 15
+      }
+    ],
+    "Cooldown": 14400,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "red",
+    "Items": [
+      {
+        "Id": 1379,
+        "Durability": 100,
+        "Amount": 6
+      },
+      {
+        "Ammo": 71,
+        "Id": 1381,
+        "Durability": 100,
+        "Amount": 6
+      },
+      {
+        "Id": 197,
+        "Durability": 100,
+        "Amount": 3
+      }
+    ],
+    "Cooldown": 15,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "blue",
+    "Items": [
+      {
+        "Id": 1379,
+        "Durability": 100,
+        "Amount": 6
+      },
+      {
+        "Ammo": 71,
+        "Id": 1381,
+        "Durability": 100,
+        "Amount": 6
+      },
+      {
+        "Id": 193,
+        "Durability": 100,
+        "Amount": 3
+      }
+    ],
+    "Cooldown": 15,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "helper",
+    "Items": [
+      {
+        "Id": 490,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 120,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "car",
+    "Items": [
+      {
+        "Vehicle": 74
+      }
+    ],
+    "Cooldown": 900,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "sea",
+    "Items": [
+      {
+        "Vehicle": 105
+      }
+    ],
+    "Cooldown": 900,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "bus",
+    "Items": [
+      {
+        "Vehicle": 86
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "plane",
+    "Items": [
+      {
+        "Vehicle": 133
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "taxi",
+    "Items": [
+      {
+        "Vehicle": 76
+      }
+    ],
+    "Cooldown": 900,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "jet",
+    "Items": [
+      {
+        "Vehicle": 140
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "sky",
+    "Items": [
+      {
+        "Vehicle": 175
+      }
+    ],
+    "Cooldown": 900,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "pat",
+    "Items": [
+      {
+        "Id": 1406,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 462,
+        "Durability": 100,
+        "Amount": 2
+      }
+    ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+ },
+ {
+    "Name": "discordmember",
+    "Items": [
+           {
+           "Id": 1420,
+           "Durability": 100,
+           "Amount": 1
+           },
+           {
+           "Id": 1419,
+           "Durability": 100,
+           "Amount": 1
+           },
+           {
+           "Id": 1426,
+           "Durability": 100,
+           "Amount": 1
+           }
+           ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+ },
+ {
+ "Name": "helpersuit",
+    "Items": [
+      {
+        "Id": 1422,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1419,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1428,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "adminsuit",
+    "Items": [
+      {
+        "Id": 1424,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1419,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1429,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 10,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "adminspecs",
+    "Items": [
+      {
+        "Id": 1427,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1425,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 8,
+        "Barrel": {
+          "AttachmentId": 1444,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 146,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 8,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 151,
+          "Durability": 100
+        },
+        "Id": 112,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 120,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "hired",
+    "Items": [
+      {
+        "Id": 1385,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1386,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1387,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 60,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "engineer",
+    "Items": [
+      {
+        "Id": 423,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 407,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 408,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 60,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "rebuild",
+    "Items": [
+      {
+        "Id": 369,
+        "Durability": 100,
+        "Amount": 4
+      },
+      {
+        "Id": 373,
+        "Durability": 100,
+        "Amount": 4
+      },
+      {
+        "Id": 374,
+        "Durability": 100,
+        "Amount": 9
+      },
+      {
+        "Id": 370,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 371,
+        "Durability": 100,
+        "Amount": 7
+      },
+      {
+        "Id": 372,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 1299,
+        "Durability": 100,
+        "Amount": 2
+      },
+      {
+        "Id": 378,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1158,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1277,
+        "Durability": 100,
+        "Amount": 4
+      },
+      {
+        "Id": 328,
+        "Durability": 100,
+        "Amount": 6
+      },
+      {
+        "Id": 1260,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 458,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1255,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "arrest",
+    "Items": [
+      {
+        "Id": 1195,
+        "Durability": 100,
+        "Amount": 3
+      },
+      {
+        "Id": 1196,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 60,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "HBD",
+    "Items": [
+      {
+        "Id": 1164,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 471,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 1047,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 1077,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 1079,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 1082,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 1118,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 1163,
+        "Durability": 100,
+        "Amount": 24
+      },
+      {
+        "Id": 462,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 466,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Id": 14,
+        "Durability": 100,
+        "Amount": 10
+      },
+      {
+        "Ammo": 1,
+        "Id": 1452,
+        "Durability": 100,
+        "Amount": 10
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "chaos",
+    "Items": [
+      {
+        "Id": 253,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Xp": 1000
+      },
+      {
+        "Id": 15,
+        "Durability": 100,
+        "Amount": 4
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "hmg",
+    "Items": [
+      {
+        "Ammo": 50,
+        "Id": 1395,
+        "Durability": 100,
+        "Amount": 10
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "hind",
+    "Items": [
+      {
+        "Vehicle": 174
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "dump",
+    "Items": [
+      {
+        "Vehicle": 141
+      }
+    ],
+    "Cooldown": 300,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "tank",
+    "Items": [
+      {
+        "Vehicle": 173
+      },
+      {
+        "Ammo": 1,
+        "Id": 1302,
+        "Durability": 100,
+        "Amount": 15
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "rocket",
+    "Items": [
+      {
+        "Id": 519,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 1,
+        "Id": 520,
+        "Durability": 100,
+        "Amount": 15
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "truck",
+    "Items": [
+      {
+        "Vehicle": 147
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Orca",
+    "Items": [
+      {
+        "Vehicle": 134
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "army",
+    "Items": [
+      {
+        "Id": 1516,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1517,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1518,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1519,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 440,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "AUTO",
+        "Ammo": 27,
+        "Barrel": {
+          "AttachmentId": 7,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 147,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 8,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 151,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 1483,
+          "Durability": 100
+        },
+        "Id": 1481,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 27,
+        "Id": 1483,
+        "Durability": 100,
+        "Amount": 4
+      }
+    ],
+    "Cooldown": 600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "mk2",
+    "Items": [
+      {
+        "Id": 1441,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1443,
+        "Durability": 100,
+        "Amount": 2
+      }
+    ],
+    "Cooldown": 86400,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  }
+]

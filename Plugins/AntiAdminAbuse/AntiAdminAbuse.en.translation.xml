@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="announce_enable_god" Value="Admin {0} has enabled god mode! Players can't kill him now!" />
+  <Translation Id="announce_disable_god" Value="Admin {0} has disabled god mode! He is now a normal player." />
+  <Translation Id="announce_enable_vanish" Value="{0} has enabled vanish!" />
+  <Translation Id="announce_disable_vanish" Value="{0} has disabled vanish!" />
+  <Translation Id="announce_heal_other" Value="{0} has healed {1}!" />
+  <Translation Id="announce_heal_self" Value="{0} has healed themselves!" />
+  <Translation Id="announce_tp" Value="{0} has teleported to {1}" />
+  <Translation Id="announce_tphere" Value="{0} has teleported {1} to themselves!" />
+  <Translation Id="announce_kick" Value="{0} has kicked {1}!" />
+  <Translation Id="announce_ban" Value="{0} has banned {1}!" />
+  <Translation Id="annoucne_slay" Value="{0} has slayed {1}!" />
+  <Translation Id="announce_spy" Value="{0} has spied on {1}!" />
+  <Translation Id="announce_admin" Value="{0} has admined {1}!" />
+  <Translation Id="announce_airdrop" Value="{0} has called in an airdrop!" />
+  <Translation Id="announce_item" Value="{0} has spawned in {1} {2} ({3})!" />
+  <Translation Id="announce_vehicle" Value="{0} has spawned in a {1} ({2})!" />
+  <Translation Id="public_killed_in_god" Value="{0} has killed {1} while in god mode!" />
+  <Translation Id="public_killed_in_vanish" Value="{0} has killed {1} while in vanish!" />
+  <Translation Id="public_damaged_in_god" Value="{0} has damaged {1} while in god mode!" />
+  <Translation Id="private_damaged_in_god" Value="You damaged {0} in god mode!" />
+  <Translation Id="public_damaged_in_vanish" Value="{0} has damaged {1} while in vanish!" />
+  <Translation Id="private_damaged_in_vanish" Value="You damaged {0} in vanish!" />
+  <Translation Id="private_damaged_buildable_in_vanish" Value="You can't damage buildables in vanish!" />
+  <Translation Id="private_damaged_buildable_in_god" Value="You can't damage buildables in god mode!" />
+</Translations>

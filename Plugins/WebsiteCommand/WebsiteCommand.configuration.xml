@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebsiteConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <OpenUrlOnJoin>true</OpenUrlOnJoin>
+  <JoinUrl>bit.ly/2zib0Ei</JoinUrl>
+  <JoinDesc>Please Read Server Guidelines</JoinDesc>
+  <WebsiteCommands>
+    <WebsiteCommand>
+      <Url>https://discord.gg/jeMrVEH</Url>
+      <Desc>Discord Server</Desc>
+      <CommandName>discord</CommandName>
+      <Help>discord</Help>
+    </WebsiteCommand>
+    <WebsiteCommand>
+      <Url>bit.ly/2zib0Ei</Url>
+      <Desc>Server Rules</Desc>
+      <CommandName>serverrules</CommandName>
+      <Help>serverrules</Help>
+    </WebsiteCommand>
+    <WebsiteCommand>
+      <Url>https://unturned.fandom.com/wiki/Crafting</Url>
+      <Desc>Crafting Guide</Desc>
+      <CommandName>crafting</CommandName>
+      <Help>crafting</Help>
+    </WebsiteCommand>
+    <WebsiteCommand>
+      <Url>https://www.youtube.com/watch?v=d1YBv2mWll0</Url>
+      <Desc>Apply Guide</Desc>
+      <CommandName>apply</CommandName>
+      <Help>apply</Help>
+    </WebsiteCommand>
+  </WebsiteCommands>
+</WebsiteConfig>

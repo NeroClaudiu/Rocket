@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AirdropManagerConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MassAirdropEnabled>false</MassAirdropEnabled>
+  <MassAirdropInterval>1200</MassAirdropInterval>
+  <MassAirdropTimeRangeEnabled>true</MassAirdropTimeRangeEnabled>
+  <MassAirdropTimeMin>900</MassAirdropTimeMin>
+  <MassAirdropTimeMax>1200</MassAirdropTimeMax>
+  <MassAirdropCount>20</MassAirdropCount>
+  <MassDropColor>24A0ED</MassDropColor>
+  <TimedDropEnabled>true</TimedDropEnabled>
+  <TimedDropInterval>1200</TimedDropInterval>
+  <TimedDropTimeRangeEnabled>true</TimedDropTimeRangeEnabled>
+  <TimedDropTimeMin>900</TimedDropTimeMin>
+  <TimedDropTimeMax>1200</TimedDropTimeMax>
+  <TimedDropColor>24A0ED</TimedDropColor>
+</AirdropManagerConfiguration>

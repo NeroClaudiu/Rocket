@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translation Id="prot_started" Value="You have spawn protection for {0} seconds!" />
+  <Translation Id="canceled_item" Value="Your spawn protection expired because you equipted a item!" />
+  <Translation Id="expired" Value="Your spawn protection expired!" />
+  <Translation Id="canceled_veh" Value="Your spawn protection expired because you are in a vehicle with others!" />
+  <Translation Id="admin_prot_enabled" Value="Enabled protection on {0}!" />
+  <Translation Id="admin_prot_disabled" Value="Disabled protection on {0}!" />
+  <Translation Id="usage_start" Value="Correct command usage: /pstart &lt;player&gt;" />
+  <Translation Id="usage_stop" Value="Correct command usage: /pstop &lt;player&gt;" />
+  <Translation Id="noplayer" Value="Player '{0}' not found!" />
+  <Translation Id="canceled_punch" Value="Your spawn protection expired because you punched!" />
+  <Translation Id="canceled_dist" Value="Your protection has expired because of moving away from spawn!" />
+  <Translation Id="canceled_bedrespawn" Value="You were not giving spawnprotection due to spawning at your bed" />
+  <Translation Id="protection_excluded" Value="You have disabled spawnprotection for yourself, do /toggleprotection to enable again" />
+  <Translation Id="toggled_protection_on" Value="You will now receive spawn protection" />
+  <Translation Id="toggled_protection_off" Value="You will no longer receive spawn protection" />
+</Translations>

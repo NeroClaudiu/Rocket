@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WarningsConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Enabled>true</Enabled>
+  <AnnouceWarningKicksAndBansServerWide>true</AnnouceWarningKicksAndBansServerWide>
+  <AnnouceWarningsServerWide>false</AnnouceWarningsServerWide>
+  <MessageColor>Red</MessageColor>
+  <DaysWarningsExpire>7</DaysWarningsExpire>
+  <WarningPoints>
+    <WarningPoint>
+      <WarningsToTrigger>3</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>3600</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>4</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>21600</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>5</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>86400</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>6</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>172800</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+    <WarningPoint>
+      <WarningsToTrigger>7</WarningsToTrigger>
+      <KickPlayer>false</KickPlayer>
+      <BanPlayer>true</BanPlayer>
+      <BanLengthSeconds>432000</BanLengthSeconds>
+      <ConsoleCommand />
+    </WarningPoint>
+  </WarningPoints>
+  <PlayerWarnings />
+</WarningsConfig>

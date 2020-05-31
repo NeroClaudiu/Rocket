@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AnnounceGod>true</AnnounceGod>
+  <AnnounceVanish>false</AnnounceVanish>
+  <AnnounceHeal>false</AnnounceHeal>
+  <AnnounceTp>false</AnnounceTp>
+  <AnnounceTphere>false</AnnounceTphere>
+  <AnnounceKick>false</AnnounceKick>
+  <AnnounceBan>false</AnnounceBan>
+  <AnnounceSlay>false</AnnounceSlay>
+  <AnnounceSpy>false</AnnounceSpy>
+  <AnnounceAdmin>false</AnnounceAdmin>
+  <AnnounceAirdrop>false</AnnounceAirdrop>
+  <AnnounceItem>false</AnnounceItem>
+  <AnnounceVehicle>false</AnnounceVehicle>
+  <PlayerDamagePrivateWarn>true</PlayerDamagePrivateWarn>
+  <PlayerDamagePublicWarn>false</PlayerDamagePublicWarn>
+  <BlockPlayerDamage>false</BlockPlayerDamage>
+  <BlockBuildableDamage>false</BlockBuildableDamage>
+  <DontAnnounceCommandsInVanish>false</DontAnnounceCommandsInVanish>
+  <LogToServerLog>true</LogToServerLog>
+  <IgnoreAdmins>false</IgnoreAdmins>
+</Configuration>

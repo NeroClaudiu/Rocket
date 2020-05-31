@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "rules",
+    "Text": [
+      "<yellow>Don't build base over 6 floors and 6 roofs.",
+      "<yellow>Store your vehicles inside your garage or near your base.",
+      "<yellow>Place your claim flag inside your house.",
+      "<yellow>Maximum of 150 elements per base."
+    ]
+  },
+  {
+    "Name": "help",
+    "Text": [
+      "<yellow>Type /serverrules to know the commands and usage."
+    ]
+  },
+  {
+    "Name": "website",
+    "Text": [
+      "<cyan>Dancing Sheeps"
+    ]
+  }
+]
