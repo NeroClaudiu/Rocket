@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemModifierConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Item>
+  <ID>1382</ID>
+  <PlayerDamage>200</PlayerDamage>
+  <PlayerSkullMultiplier>5</PlayerSkullMultiplier>  
+</Item>
+<Item>
+  <ID>1525</ID>
+  <Armor>0.1</Armor>  
+</Item>
+<Item>
+  <ID>253</ID>
+  <Width>7</Width> 
+  <Height>16</Height> 
+</Item>
+</ItemModifierConfiguration>
