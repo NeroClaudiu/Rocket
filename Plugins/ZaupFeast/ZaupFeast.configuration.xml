@@ -4,7 +4,7 @@
   <MinDropTime>1100</MinDropTime>
   <MaxDropTime>1200</MaxDropTime>
   <DropRadius>1</DropRadius>
-  <MinItemsDrop>30</MinItemsDrop>
+  <MinItemsDrop>29</MinItemsDrop>
   <MaxItemsDrop>30</MaxItemsDrop>
   <SkyDrop>false</SkyDrop>
   <PlaneEffectId>1001</PlaneEffectId>
