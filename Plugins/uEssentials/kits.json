@@ -121,6 +121,17 @@
     "ResetCooldownWhenDie": false
   },
   {
+    "Name": "car",
+    "Items": [
+      {
+        "Vehicle": 74
+      }
+    ],
+    "Cooldown": 900,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
     "Name": "bricks",
     "Items": [
       {
@@ -242,17 +253,6 @@
       }
     ],
     "Cooldown": 120,
-    "Cost": 0.0,
-    "ResetCooldownWhenDie": false
-  },
-  {
-    "Name": "car",
-    "Items": [
-      {
-        "Vehicle": 74
-      }
-    ],
-    "Cooldown": 900,
     "Cost": 0.0,
     "ResetCooldownWhenDie": false
   },
