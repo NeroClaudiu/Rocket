@@ -47,7 +47,7 @@
   "Kit": {
     "ShowCost": true,
     "ShowCostIfZero": false,
-    "CostFormat": "{0}({1}{2})",
+    "CostFormat": "{0} [{1}{2}]",
     "GlobalCooldown": 0,
     "ResetGlobalCooldownWhenDie": false
   },
@@ -59,31 +59,31 @@
   "Economy": {
     "UseXp": false,
     "XpCurrency": "Xp",
-    "UconomyCurrency": "Yen"
+    "UconomyCurrency": "SHM"
   },
   "AutoAnnouncer": {
     "Interval": 111,
     "RandomMessages": false,
     "Enabled": true,
     "Messages": [
-       "<FF8A28>Server: Be sure to place your bed and vehicle inside your house or it will get wiped.",
+       "<FF8A28>Server: Be sure to place your bed inside your house or it will get wiped.",
        "<FF8A28>Server: Please respect everyone. Even your enemies",
        "<FF8A28>Server: Player or group who dominates the server will be banned by owner. Plz don't wreck the balance of the server by non-stop massacring everyone. Thanks.",
        "<FF8A28>Server: Do /rules to check server rules, commands, tips, and news.",
        "<FF8A28>Server: We have an Arena. You can ask an admin to host a group battle, and win exclusive rewards!",
        "<FF8A28>Server: Do /kits to see the full list of kits available.",
        "<FF8A28>Server: All servers will be reset every month. All players start from scratch again together.",
-       "<FF8A28>Server: Maximum of 6 floors and 6 roofs and a total of 150 elements only.",
+       "<FF8A28>Server: Maximum of 6 floors and 6 roofs.",
        "<FF8A28>Server: Spawn killing and bed camping is not allowed or get banned!",
-       "<FF8A28>Server: Vehicles that has no driver will be wiped if found outside.",
-       "<FF8A28>Server: Earn money by killing zombies! And even more money if it's a mega zombie!",
+       "<FF8A28>Server: Mass airdrops arrive between 15-20 minutes!",
+       "<FF8A28>Server: Report illegal bases or beds to admins and get a reward.",
        "<FF8A28>Server: Saying of bad words and spamming can get you muted!",
        "<FF8A28>Server: Illegal bases will be wiped without a notice. Please read building rules before building anything.",
-       "<FF8A28>Server: Don't hesitate to call for help if you need assistance.",
+       "<FF8A28>Server: Don't hesitate to call for help in discord if you need assistance.",
        "<FF8A28>Server: Please use illuminations such as cagelights and lamps.",
        "<FF8A28>Server: If you see someone is raiding a base, please report them immediately.",
        "<FF8A28>Server: Placing of hostile or neutral sentries outside your base is strictly prohibited.",	
-       "<FF8A28>Server: You can join our discord server by typing /discord.",
+       "<FF8A28>Server: We have a discord server. Do /discord to join.",
        "<FF8A28>Server: Please speak English in world chat."
     ]
   },
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "RunOnce": false,
+        "RunOnce": true,
         "Timer": 5400,
         "Commands": [
 	  "say \"[Alert] Server: Beat the summer heat with fresh coconuts!\" 0 255 0",
@@ -138,7 +138,7 @@
         ]
       }
     ],
-    "Enabled": false
+    "Enabled": true
   },
   "GiveItemBlacklist": [],
   "VehicleBlacklist": [],
