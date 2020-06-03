@@ -14,7 +14,7 @@
     <FeastItem>
       <Id>340</Id>
       <Name>Tomato</Name>
-      <Chance>6.5</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -22,7 +22,7 @@
     <FeastItem>
       <Id>1160</Id>
       <Name>Pancake</Name>
-      <Chance>6.5</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -46,7 +46,7 @@
     <FeastItem>
       <Id>461</Id>
       <Name>Tuna Sandwich</Name>
-      <Chance>7.5</Chance>
+      <Chance>7</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -54,7 +54,7 @@
     <FeastItem>
       <Id>466</Id>
       <Name>Grilled Cheese Sandwich</Name>
-      <Chance>7.5</Chance>
+      <Chance>7</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -78,7 +78,7 @@
     <FeastItem>
       <Id>1163</Id>
       <Name>Donut</Name>
-      <Chance>5</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -86,7 +86,7 @@
     <FeastItem>
       <Id>1161</Id>
       <Name>Waffle</Name>
-      <Chance>5</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -118,7 +118,7 @@
     <FeastItem>
       <Id>335</Id>
       <Name>Corn</Name>
-      <Chance>6.5</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -126,7 +126,7 @@
     <FeastItem>
       <Id>471</Id>
       <Name>Cake</Name>
-      <Chance>6.5</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -142,7 +142,7 @@
     <FeastItem>
       <Id>77</Id>
       <Name>Canned Tomato Soup</Name>
-      <Chance>6</Chance>
+      <Chance>5</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -158,7 +158,7 @@
     <FeastItem>
       <Id>082</Id>
       <Name>Chips</Name>
-      <Chance>4</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
