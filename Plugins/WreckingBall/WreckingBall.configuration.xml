@@ -15,7 +15,7 @@
   <PlayerDataWaitTime>45</PlayerDataWaitTime>
   <CleanupIntervalTime>5</CleanupIntervalTime>
   <CleanupPerInterval>10</CleanupPerInterval>
-  <EnableVehicleCap>false</EnableVehicleCap>
+  <EnableVehicleCap>true</EnableVehicleCap>
   <VCapDestroyByElementCount>false</VCapDestroyByElementCount>
   <MaxVehiclesAllowed>0</MaxVehiclesAllowed>
   <VCapCheckInterval>7200</VCapCheckInterval>
