@@ -36,9 +36,17 @@
       </Locations>
     </FeastItem>
     <FeastItem>
+      <Id>462</Id>
+      <Name>Milk Box</Name>
+      <Chance>8</Chance>
+      <Locations>
+        <string>all</string>
+      </Locations>
+    </FeastItem>
+    <FeastItem>
       <Id>1047</Id>
       <Name>Pumpkin Pie</Name>
-      <Chance>6</Chance>
+      <Chance>5</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -62,7 +70,7 @@
     <FeastItem>
       <Id>1164</Id>
       <Name>Pizza</Name>
-      <Chance>9</Chance>
+      <Chance>6</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -78,7 +86,7 @@
     <FeastItem>
       <Id>1163</Id>
       <Name>Donut</Name>
-      <Chance>6</Chance>
+      <Chance>5</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -86,7 +94,7 @@
     <FeastItem>
       <Id>1161</Id>
       <Name>Waffle</Name>
-      <Chance>6</Chance>
+      <Chance>5</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -110,7 +118,7 @@
     <FeastItem>
       <Id>331</Id>
       <Name>Planter</Name>
-      <Chance>5</Chance>
+      <Chance>4</Chance>
       <Locations>
         <string>all</string>
       </Locations>
@@ -126,7 +134,7 @@
     <FeastItem>
       <Id>471</Id>
       <Name>Cake</Name>
-      <Chance>6</Chance>
+      <Chance>5</Chance>
       <Locations>
         <string>all</string>
       </Locations>
