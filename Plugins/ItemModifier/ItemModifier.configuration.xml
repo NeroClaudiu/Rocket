@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ItemModifierConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Item>
-  <ID>1382</ID>
-  <PlayerDamage>200</PlayerDamage>
-  <PlayerSkullMultiplier>5</PlayerSkullMultiplier>  
-</Item>
-<Item>
-  <ID>1525</ID>
-  <Armor>0.1</Armor>  
-</Item>
-<Item>
-  <ID>253</ID>
-  <Width>7</Width> 
-  <Height>16</Height> 
-</Item>
+  <LoadAfterWorkshop>false</LoadAfterWorkshop>
+  <Items>
+    <Item ID="1382">
+      <PlayerDamage>50</PlayerDamage>
+      <PlayerSkullMultiplier>6.7</PlayerSkullMultiplier>
+    </Item>
+    <Item ID="18">
+      <PlayerDamage>50</PlayerDamage>
+      <PlayerSkullMultiplier>6.7</PlayerSkullMultiplier>
+    </Item>
+    <Item ID="1525">
+      <Armor>0.75</Armor>
+    </Item>
+    <Item ID="253">
+      <Width>10</Width>
+      <Height>10</Height>
+    </Item>
+    <Item ID="1170">
+      <Width>8</Width>
+      <Height>7</Height>
+    </Item>
+    <Item ID="490">
+      <PlayerDamage>25</PlayerDamage>
+      <ZombieDamage>100</ZombieDamage>
+      <ResourceDamage>50</ResourceDamage>
+    </Item>
+    <Item ID ="116">
+      <PlayerDamage>20</PlayerDamage>
+    </Item>
+    <Item ID ="1484">
+      <PlayerDamage>15</PlayerDamage>
+    </Item>
+  </Items>
 </ItemModifierConfiguration>
