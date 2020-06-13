@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PluginEnabled>true</PluginEnabled>
+  <HidePlugins>false</HidePlugins>
+  <EditPlugins>true</EditPlugins>
+  <Plugins>
+    <string>BreakfastCheckOwner</string>
+    <string>DancingEssentials</string>
+  </Plugins>
+  <IsVanilla>false</IsVanilla>
+  <InvisibleRocket>false</InvisibleRocket>
+  <HideWorkshop>true</HideWorkshop>
+  <EditWorkshop>false</EditWorkshop>
+  <Workshop>
+    <string>0</string>
+  </Workshop>
+  <HideConfig>true</HideConfig>
+  <IsPVP>true</IsPVP>
+  <IsBattlEyeSecure>true</IsBattlEyeSecure>
+  <Mode>normal</Mode>
+  <HasCheats>false</HasCheats>
+  <Perspective>Vehicle</Perspective>
+  <IsGold>false</IsGold>
+  <GameMode>Dancing Mode</GameMode>
+</Config>
