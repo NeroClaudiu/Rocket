@@ -9,7 +9,7 @@
   <SkyDrop>false</SkyDrop>
   <PlaneEffectId>1001</PlaneEffectId>
   <SkydropEffectId>1006</SkydropEffectId>
-  <MessageColor>FFD1C1</MessageColor>
+  <MessageColor>FFA07A</MessageColor>
   <Items>
     <FeastItem>
       <Id>340</Id>
