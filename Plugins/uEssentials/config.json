@@ -10,7 +10,7 @@
   "UnfreezeOnQuit": true,
   "EnableTextCommands": true,
   "EnableDeathMessages": false,
-  "EnableJoinLeaveMessage": false,
+  "EnableJoinLeaveMessage": true,
   "ShowPermissionOnErrorMessage": true,
   "SaveCommandCooldowns": false,
   "EnablePollRunningMessage": true,
