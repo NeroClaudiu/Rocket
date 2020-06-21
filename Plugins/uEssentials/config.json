@@ -32,7 +32,7 @@
     "CancelTeleportWhenMove": false
   },
   "Warp": {
-    "TeleportDelay": 5,
+    "TeleportDelay": 10,
     "CancelTeleportWhenMove": false,
     "PerWarpPermission": true
   },
@@ -71,13 +71,15 @@
        "<FF8A28>Server: Player or group who dominates the server will be banned by owner. Plz don't wreck the balance of the server by non-stop massacring everyone. Thanks.",
        "<FF8A28>Server: Do /rules to check server rules, commands, tips, and news.",
        "<FF8A28>Server: We have an Arena. You can ask an admin to host a group battle, and win exclusive rewards!",
+       "<FF8A28>Server: Do /crafting to know how to craft an item.,
        "<FF8A28>Server: Do /kits to see the full list of kits available.",
-       "<FF8A28>Server: All servers will be reset every month. All players start from scratch again together.",
-       "<FF8A28>Server: Maximum of 6 floors and 6 roofs.",
-       "<FF8A28>Server: Spawn killing and bed camping is not allowed or get banned!",
+       "<FF8A28>Server: You can report to our discord server if someone have put a claim flag in your base or blocked your door.",
+       "<FF8A28>Server: Sky bases are not allowed. Because bases are indestructible in this server.",
+       "<FF8A28>Server: Spawn killing and bed camping is not allowed or get jailed for a long time!",
        "<FF8A28>Server: Mass airdrops arrive between 15-20 minutes!",
        "<FF8A28>Server: Report illegal bases or beds to admins and get a reward.",
        "<FF8A28>Server: Saying of bad words and spamming can get you muted!",
+       "<FF8A28>Server: We do not ban rule breakers, instead we put them in a jail for a corresponding amount of time. Submit a report in our discord if you are mistakenly taken as a prisoner.",
        "<FF8A28>Server: Illegal bases will be wiped without a notice. Please read building rules before building anything.",
        "<FF8A28>Server: Don't hesitate to call for help in discord if you need assistance.",
        "<FF8A28>Server: Please use illuminations such as cagelights and lamps.",
@@ -91,7 +93,7 @@
     "Commands": [
       {
         "RunOnce": false,
-        "Timer": 3615,
+        "Timer": 3613,
         "Commands": [
           "say \"[Alert] Server: Be sure to stay hydrated!\" 0 255 0",
           "item * soda"
@@ -107,9 +109,9 @@
       },
       {
         "RunOnce": false,
-        "Timer": 7192,
+        "Timer": 7195,
         "Commands": [
-	  "say \"[Alert] Server: All vehicles are going to explode in 10 seconds. Watch out!\" 245 0 0",
+	  "say \"[Alert] Server: Wiping Vehicles in 10 seconds!\" 245 0 0",
     	  ""
         ]
       },
@@ -117,13 +119,13 @@
         "RunOnce": false,
         "Timer": 7200,
         "Commands": [
-	  "say \"[Alert] Server: Get away from vehicles! They are about to explode!\" 245 0 0",
+	  "say \"[Alert] Server: Wiping Vehicles in progress!\" 245 0 0",
           ""
         ]
       },
       {
         "RunOnce": false,
-        "Timer": 7205,
+        "Timer": 7203,
         "Commands": [
 	  "say \"[Alert] Server: All vehicle are respawned now. Find yourself a new one.\" 245 0 0",
           ""
@@ -131,14 +133,14 @@
       },
       {
         "RunOnce": false,
-        "Timer": 7230,
+        "Timer": 7220,
         "Commands": [
 	  "say \"[Alert] Server: Vehicles reset every 2 hours.\" 245 0 0",
     	  ""
         ]
       }
     ],
-    "Enabled": true
+    "Enabled": false
   },
   "GiveItemBlacklist": [],
   "VehicleBlacklist": [],
@@ -149,6 +151,10 @@
   "CommandsToOverride": [],
   "DisabledCommands": [
 	"tpa",
-	"home"
+	"home",
+	"poll",
+	"vote",
+	"ascend",
+	"descend"
 ]
 }
